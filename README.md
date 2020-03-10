@@ -780,6 +780,9 @@
 #### C technologies
 * Crystal https://crystal-lang.org/
 
+#### D technologies
+* Dark https://medium.com/darklang
+
 #### G technologies
 * Go https://blog.golang.org/
 
@@ -801,6 +804,7 @@
 
 #### N technologies
 * .NET https://blogs.msdn.microsoft.com/dotnet/
+* Nim https://nim-lang.org/blog.html
 
 #### R technologies
 * React https://reactjs.org/blog/
